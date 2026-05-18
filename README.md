@@ -122,29 +122,17 @@ Building a clean and modern developer portfolio.
 
 <p align="center">
 
-<a href="https://supabase.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="48" height="48"/>
-</a>
+<img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3ECF8E&color=111111" />
 
-<a href="https://vercel.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="48" height="48"/>
-</a>
+<img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=FFFFFF&color=111111" />
 
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48"/>
-</a>
+<img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E&color=111111" />
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48"/>
-</a>
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032&color=111111" />
 
-<a href="https://github.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48"/>
-</a>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF&color=111111" />
 
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48"/>
-</a>
+<img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&color=111111" />
 
 </p>
 
