@@ -146,24 +146,37 @@ Building a clean and modern developer portfolio.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aka-kaylee&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A7BFA4&text_color=FFFFFF&icon_color=A7BFA4" />
+<table>
+<tr>
+<td align="center" width="33%">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka-kaylee&layout=compact&hide_border=true&bg_color=0D1117&title_color=A7BFA4&text_color=FFFFFF" />
+<h2>13</h2>
+
+Total Contributions
+
+</td>
+<td align="center" width="33%">
+
+<h2>1</h2>
+
+Current Streak
+
+</td>
+<td align="center" width="33%">
+
+<h2>1</h2>
+
+Longest Streak
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aka-kaylee&theme=github_dark" />
 
 </div>
-
-<br />
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=aka-kaylee&theme=transparent&hide_border=true&ring=A7BFA4&fire=A7BFA4&currStreakLabel=A7BFA4" />
-
-</div>
-
-<br />
-<br />
-
-<div align="center">
 
 ## Philosophy
 
