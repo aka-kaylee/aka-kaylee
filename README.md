@@ -10,15 +10,15 @@
 <br />
 
 <a href="https://kayleerenee.com">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=A7BFA4&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=A7BFA4&color=111111" />
 </a>
 
 <a href="https://kaylee.lovable.app">
-  <img src="https://img.shields.io/badge/Projects-0D1117?style=for-the-badge&logo=vercel&logoColor=A7BFA4&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/PROJECTS-111111?style=for-the-badge&logo=vercel&logoColor=A7BFA4&color=111111" />
 </a>
 
 <a href="https://www.linkedin.com/in/kayleechambers">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A7BFA4&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=A7BFA4&color=111111" />
 </a>
 
 </div>
