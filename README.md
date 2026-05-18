@@ -146,23 +146,41 @@ Building a clean and modern developer portfolio.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=aka-kaylee&show_icons=true&theme=transparent&hide_border=true&title_color=A7BFA4&text_color=C9D1D9&layout=compact" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aka-kaylee&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A7BFA4&text_color=FFFFFF&icon_color=A7BFA4" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aka-kaylee&show_icons=true&theme=transparent&hide_border=true&title_color=A7BFA4&icon_color=A7BFA4&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka-kaylee&layout=compact&hide_border=true&bg_color=0D1117&title_color=A7BFA4&text_color=FFFFFF" />
 
 </div>
 
-<br>
-
-# Philosophy
-
-> Good software is not just about code.  
-> It’s about people, systems, and solving real problems thoughtfully.
-
-<br>
+<br />
 
 <div align="center">
 
-`software engineer` · `product builder` · `AI workflows` · `modern systems`
+<img src="https://streak-stats.demolab.com?user=aka-kaylee&theme=transparent&hide_border=true&ring=A7BFA4&fire=A7BFA4&currStreakLabel=A7BFA4" />
+
+</div>
+
+<br />
+<br />
+
+<div align="center">
+
+## Philosophy
+
+<i>
+Good software is not just about code.<br>
+It’s about people, systems, and solving real problems thoughtfully.
+</i>
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/software_engineer-111111?style=for-the-badge&color=111111" />
+
+<img src="https://img.shields.io/badge/product_builder-111111?style=for-the-badge&color=111111" />
+
+<img src="https://img.shields.io/badge/AI_workflows-111111?style=for-the-badge&color=111111" />
+
+<img src="https://img.shields.io/badge/modern_systems-111111?style=for-the-badge&color=111111" />
 
 </div>
