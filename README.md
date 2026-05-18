@@ -86,40 +86,91 @@ Building a clean and modern developer portfolio.
 
 <br>
 
-# Tech Stack
+## Tech Stack
 
 <div align="center">
 
 ### Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,go,c,supabase,figma,vercel" />
+<p align="center">
 
-<br />
-<br />
+<a href="https://react.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48"/>
+</a>
 
-### Tools
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48"/>
+</a>
 
-</div>
+<a href="https://golang.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48"/>
+</a>
+
+<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48"/>
+</a>
+
+</p>
 
 <br>
 
-# GitHub Activity
+### Platforms & Tools
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aka-kaylee&show_icons=true&hide_border=true&title_color=A7BFA4&icon_color=A7BFA4&text_color=C9D1D9&bg_color=0D1117" />
+<a href="https://supabase.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="48" height="48"/>
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka-kaylee&layout=compact&hide_border=true&title_color=A7BFA4&text_color=C9D1D9&bg_color=0D1117" />
+<a href="https://vercel.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="48" height="48"/>
+</a>
 
-</div>
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48"/>
+</a>
+
+</p>
 
 <br>
 
+### AI Workflow Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logoColor=A7BFA4&color=111111" />
+
+<img src="https://img.shields.io/badge/Lovable-111111?style=for-the-badge&logoColor=A7BFA4&color=111111" />
+
+</p>
+
+</div>
+
+<br />
+
+## GitHub Activity
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aka-kaylee&bg_color=0d1117&color=A7BFA4&line=A7BFA4&point=ffffff&area=true&hide_border=true" width="95%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=aka-kaylee&show_icons=true&theme=transparent&hide_border=true&title_color=A7BFA4&text_color=C9D1D9&layout=compact" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aka-kaylee&show_icons=true&theme=transparent&hide_border=true&title_color=A7BFA4&icon_color=A7BFA4&text_color=C9D1D9" />
 
 </div>
 
